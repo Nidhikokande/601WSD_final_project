@@ -1,9 +1,11 @@
 import pytz
+
 import random
 import datetime
 from hashlib import md5
 
 from flask import current_app
+
 from flask_login import UserMixin
 
 from sqlalchemy import or_
