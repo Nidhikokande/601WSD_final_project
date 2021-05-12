@@ -1,12 +1,12 @@
-##  IS 601 final web application project completed by Russell Pinto and Nidhi Kokande.
+###  IS 601 final web application project completed by Russell Pinto and Nidhi Kokande.
 
-## Aim: Creating a login and registration process that includes email verification.
+### Aim: Creating a login and registration process that includes email verification.
 
-## to clone repository: https://github.com/Nidhikokande/Final_project.git
+### to clone repository: https://github.com/Nidhikokande/Final_project.git
 
-## involves, Flask, html, css, smtp, docker, github
+### involves, Flask, html, css, smtp, docker, github
 
-## Install Prerequisites:
+### Install Prerequisites:
  - Windows 10 Pro, Windows 10 Education Edition, MacOS.
  - Install PyCharm
  - Install Docker Desktop
@@ -20,6 +20,6 @@
     - Find 0.0.0:5000
     - *If web app does not run, check firewall settings or try localhost:5000
 
-  ## word Document
+  ### Word Document
   https://github.com/Nidhikokande/Final_project/blob/master/word_file.docx
   
