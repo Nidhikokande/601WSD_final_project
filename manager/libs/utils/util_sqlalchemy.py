@@ -7,8 +7,6 @@ from manager.libs.utils.util_datetime import tzware_datetime
 from manager.ext import db
 from flask_login import current_user
 
-
-
 class AwareDateTime(TypeDecorator):
     """
     A DateTime type which can only store tz-aware DateTimes.
