@@ -7,6 +7,7 @@ from wtforms.validators import ValidationError
 from manager.models.Users import Users
 from manager.ext import db
 
+
 class ModelForm(FlaskForm):
     def __init__(self, obj=None, prefix='', **kwargs):
         FlaskForm.__init__(
